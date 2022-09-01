@@ -1,2 +1,7 @@
-@import './secciones/header'
-@import './secciones/main'
+*{
+    font-family: 
+}
+
+@import './secciones/header';
+@import './secciones/main';
+@import './mediaQuerys/_mobile-first';
