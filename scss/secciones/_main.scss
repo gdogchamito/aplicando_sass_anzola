@@ -1,6 +1,9 @@
 
 .main{
     selection{
+        .p{
+            text-align: center;
+        }
         .button{
             color: aqua;
             &:hover{
