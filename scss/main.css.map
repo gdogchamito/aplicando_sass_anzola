@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"main.css"}
+{"version":3,"sources":["secciones/_header.scss","main.css"],"names":[],"mappings":"AACI;EACI,UAAA;ACAR;ADCQ;EACI,iBAAA;ACCZ;ADAY;EAAQ,0BAAA;ACGpB","file":"main.css"}

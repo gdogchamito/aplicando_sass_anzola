@@ -1,1 +1,9 @@
-/*# sourceMappingURL=main.css.map */
+header ul {
+  color: 255;
+}
+header ul li {
+  font-weight: bold;
+}
+header ul li:focus {
+  text-transform: capitalize;
+}/*# sourceMappingURL=main.css.map */

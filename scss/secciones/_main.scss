@@ -1,0 +1,12 @@
+
+main{
+    ::selection{
+        .button{
+            color: aqua;
+            &:hover{
+                color: black;
+            }
+        }
+
+    }
+}

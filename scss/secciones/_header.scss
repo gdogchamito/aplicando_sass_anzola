@@ -1,0 +1,9 @@
+header{
+    ul{
+        color: red($color: red);
+        li{
+            font-weight: bold;
+            &:focus{text-transform: capitalize;}
+        }
+    }
+}
